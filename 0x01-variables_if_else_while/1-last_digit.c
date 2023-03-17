@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- *main-logical variables
+ *main-main function
  *
  * Return: Always 0 (Success)
  */
