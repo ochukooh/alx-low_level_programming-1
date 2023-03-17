@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * 
- * main=entry
+ * main - print and that piece or art is useful
  * Return:Always 1
  */
 int main(void)
