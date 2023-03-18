@@ -19,7 +19,7 @@ putchar(n);
 putchar(m);
 putchar(k);
 
-if (n != 55 || m != || k != 57)
+if (n != 55 || m != 56 || k != 57)
 {
 putchar(',');
 putchar(',');
